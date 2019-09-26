@@ -2,10 +2,6 @@ package labthree;
 
 import labthree.Sentence;
 
-import java.io.IOException;
-import java.util.Iterator;
-import java.util.Scanner;
-
 /**
  * Provides a generic method for reversing an array.
  *
