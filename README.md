@@ -77,10 +77,7 @@ date.
 A carefully formatted assignment sheet for this project provides more details
 about the steps that a computer scientist should take to complete this
 assignment. You can view this assignment sheet by visiting the listing of
-laboratories on the course web site created by the course instructor. Please pay
-attention to the icons in the left-hand margin of the assignment sheet as they
-will help you to understand and remember what steps you should take at key parts
-of the assignment.
+laboratories on the course web site created by the course instructor.
 
 ## Continuous Learning
 
