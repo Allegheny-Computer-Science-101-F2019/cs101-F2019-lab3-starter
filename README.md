@@ -57,19 +57,18 @@ Markdown standards established by the [Markdown linting
 tool](https://github.com/markdownlint/markdownlint) and, optionally, the writing
 standards set by the [Proselint tool](http://proselint.com/).
 
-The source code in the `SentencesReverser.java` file must also pass additional
-tests set by the [GatorGrader
-tool](https://github.com/GatorEducator/gatorgrader). For instance, GatorGrader
-will check to ensure that `SentencesReverser` produces exactly twenty-six lines
-of output and that you correctly perform the reversal of the array. When you
-use the `git commit` command to transfer your source code to your GitHub
-repository, [Travis CI](https://travis-ci.com/) will initialize a build of your
-assignment, checking to see if it meets all of the requirements. If both your
-source code and writing meet all of the established requirements, then you will
-see a green &#x2714; in the listing of commits in GitHub. If your submission
-does not meet the requirements, a red &#x2717; will appear instead. Please note
-that, at the option of the course instructor, some checks may be run in Travis
-CI that are not run locally by the [GatorGrader
+The source code in the `Reverser.java` file must also pass additional tests set
+by the [GatorGrader tool](https://github.com/GatorEducator/gatorgrader). For
+instance, GatorGrader will check to ensure that `Reverser` produces exactly
+twenty-eight lines of output and that you correctly perform the reversal of the
+arrays. When you use the `git commit` command to transfer your source code to
+your GitHub repository, [Travis CI](https://travis-ci.com/) will initialize a
+build of your assignment, checking to see if it meets all of the requirements.
+If both your source code and writing meet all of the established requirements,
+then you will see a green &#x2714; in the listing of commits in GitHub. If your
+submission does not meet the requirements, a red &#x2717; will appear instead.
+Please note that, at the option of the course instructor, some checks may be
+run in Travis CI that are not run locally by the [GatorGrader
 tool](https://github.com/GatorEducator/gatorgrader). Finally, the instructor
 will reduce a programmer's grade for this assignment if the red &#x2717;
 appears on the last commit in GitHub immediately before the assignment's due
