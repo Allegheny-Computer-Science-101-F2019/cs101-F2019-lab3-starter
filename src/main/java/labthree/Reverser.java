@@ -1,7 +1,5 @@
 package labthree;
 
-import labthree.Sentence;
-
 /**
  * Provides a generic method for reversing an array.
  *
